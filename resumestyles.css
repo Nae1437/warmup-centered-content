@@ -1,9 +1,8 @@
-.wrapper {
-    max-width: 600px;
-    margin: auto;
-    background-color: antiquewhite;
+.header {
+    padding: 20px;
+}
 
-}.header {
+.main {
     padding: 20px;
 }
 
@@ -11,6 +10,8 @@ body {
     margin: 0;
 }
 
-.main {
-    padding: 20px;
+.wrapper {
+    max-width: 900px;
+    margin: auto;
+    background-color: antiquewhite;
 }
